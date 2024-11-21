@@ -1,0 +1,88 @@
+[
+    {
+        "firstName":"Chelsea",
+        "lastName":"Tandy",
+        "favhobby":"Swimming",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"BMW M3 Comp",
+                "engineCapacity":2,
+                "model":"2023"
+            },
+            {
+                "carName":"Toyota RunX",
+                "engineCapacity":1,
+                "model":"2013"
+            }]
+    },
+    {
+        "firstName":"Toni",
+        "lastName":"Adams",
+        "favhobby":"Eating",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"Honda",
+                "engineCapacity":2,
+                "model":"Civic"
+            },
+            {
+                "carName":"VW Golf7",
+                "engineCapacity":2,
+                "model":"2023"
+            }]
+        },
+        {
+        "firstName":"Rafiek",
+        "lastName":"Booysen",
+        "favhobby":"Soccer",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"Audi R8",
+                "engineCapacity":2,
+                "model":"2022"
+            },
+            {
+                "carName":"Toyota RunX",
+                "engineCapacity":2,
+                "model":"2013"
+            }]
+        },
+        {
+        "firstName":"Raeesa",
+        "lastName":"Bahardien",
+        "favhobby":"Reading",
+        "criminal":"true",
+        "dreamCars":[
+            {
+                "carName":"Ferrari",
+                "engineCapacity":2,
+                "model":"2021"
+            },
+            {
+                "carName":"Porche",
+                "engineCapacity":2,
+                "model":"2010"
+            }]
+        },
+            {
+        "firstName":"Kendra",
+        "lastName":"Dunshire",
+        "favhobby":"Reading",
+        "criminal":"true",
+        "dreamCars":[
+            {
+                "carName":"BMW",
+                "engineCapacity":2,
+                "model":"2021"
+            },
+            {
+                "carName":"Mercedez benz",
+                "engineCapacity":2,
+                "model":"2023"
+            }
+        ]
+    }
+]
